@@ -12,6 +12,21 @@ body {
     background-color: #7349AC;
 }
 
+.game-control {
+    color: white;
+    font-size: 2rem;
+}
+
+.game-control input {
+    font-size: 2rem;
+    width: 50px;
+}
+
+.game-control button {
+    font-size: 2rem;
+    /* width: 50px; */
+}
+
 .letters {
     font-family: 'Eater', cursive;
     font-size: 3em;
